@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  pong.cpp
+c:\users\jeremy\documents\visual studio 2017\projects\pong\pong\pong.cpp(36): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jeremy\documents\visual studio 2017\projects\pong\pong\pong.cpp(44): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jeremy\documents\visual studio 2017\projects\pong\pong\pong.cpp(45): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jeremy\documents\visual studio 2017\projects\pong\pong\pong.cpp(89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jeremy\documents\visual studio 2017\projects\pong\pong\pong.cpp(90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jeremy\documents\visual studio 2017\projects\pong\pong\pong.cpp(93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jeremy\documents\visual studio 2017\projects\pong\pong\pong.cpp(96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jeremy\documents\visual studio 2017\projects\pong\pong\pong.cpp(144): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jeremy\documents\visual studio 2017\projects\pong\pong\pong.cpp(145): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jeremy\documents\visual studio 2017\projects\pong\pong\pong.cpp(153): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jeremy\documents\visual studio 2017\projects\pong\pong\pong.cpp(154): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  pong.vcxproj -> C:\Users\Jeremy\Documents\Visual Studio 2017\Projects\pong\Debug\pong.exe
